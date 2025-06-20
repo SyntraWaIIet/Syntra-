@@ -32,19 +32,29 @@ Visualizes how a token's risk profile evolves over time — helping you catch pa
 ## 🧭 Roadmap
 
 ### 🧱 Q3 2025 — Foundation Locked
+
  ✅ Core MVP released: Send, Swap, NFTs, Activity Log
+ 
  ✅ Syntra Code Activation (Access Logic enabled)
+ 
  ✅ Live Risk Tags applied to incoming tokens
+ 
  ⚠️ Whale Mapping (beta module launched)
 
 ### 🔁 Q4 2025 — Systems Expansion
+
  🔹 Multi-wallet import and unified session sync
+ 
  🔹 EVM support added: Ethereum + BNB Chain
+ 
  🔹 Visual overlays for risk zones and token behavior
 
 ### 🧠 Q1 2026 — Predictive Intelligence
+
  🔹 Flow Forecasting Engine: early detection of volatility spikes
+ 
  🔹 Sentiment Signal Layer: decoding emotional tone in token flows
+ 
  🔹 Role-based Governance and AI Training Proposals system
 
 ---
